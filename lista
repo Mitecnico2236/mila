@@ -1,4 +1,19 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US: CBS New York FHD" tvg-logo="http://hidra.live:80/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA",US: CBS New York FHD
+http://hplay.xyz:80/Scarso/123456/43681
+
+#EXTINF:-1 tvg-id="CBS4WWL.us" tvg-name="US: CBS New York Area HD" tvg-logo="http://img.tvcl.xyz/usa/cbs.png" group-title="USA",US: CBS New York Area HD
+http://hplay.xyz:80/Scarso/123456/43682
+
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="US: Fox New York HD" tvg-logo="http://img.tvcl.xyz/usa/foxnews.png" group-title="USA",US: Fox New York HD
+http://hplay.xyz:80/Scarso/123456/43749
+
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC New York HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC New York HD
+http://hplay.xyz:80/Scarso/123456/43825
+
+
 #EXTINF:-1 tvg-id="MX - History HD" tvg-name="History Channel FHD (MX E)" tvg-logo="http://hidra.live:80/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="Latinos Dual Audio (E)",History Channel FHD (MX E)
 http://hidra.live:80/Scarso/123456/35197
 #EXTINF:-1 tvg-id="HolaTv.co" tvg-name="Hola! TV FHD (E)" tvg-logo="http://hidra.live:80/images/5a8e8a92306f9b9c7290cace6a0170ec.png" group-title="Latinos Dual Audio (E)",Hola! TV FHD (E)
