@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Azules Y Grupo Cañaveral Juntos Por La Cumbia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AixzTO0ujreTVIUUgzQAMP3uGO.jpg" group-title="[VOD] Conciertos",Los Angeles Azules Y Grupo Cañaveral Juntos Por La Cumbia
+http://hplay.xyz:80/movie/Scarso/123456/251844.mp4
+
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US: CBS New York FHD" tvg-logo="http://hidra.live:80/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA",US: CBS New York FHD
 http://hplay.xyz:80/Scarso/123456/43681
 
