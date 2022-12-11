@@ -33,6 +33,12 @@ http://megatitan.net:8080/Dario293m438/Ruben777m3/30994
 #EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="USA: CBS New York" tvg-logo="http://titanicos.net:8080/images/d72490d8e9effea8cf8649eb42c61836.png" group-title="ENG - USA - CBS",USA: CBS New York
 http://megatitan.net:8080/Dario293m438/Ruben777m3/233809
 
+#EXTINF:-1 tvg-id="abckgtv.us" tvg-name="US: ABC 10 San Diego" tvg-logo="http://tvgo.ddns.net:8080/images/c62d4e689e689beb6923e954dd0d4a00.png" group-title="ENG - USA - ABC",US: ABC 10 San Diego
+http://megatitan.net:8080/Dario293m438/Ruben777m3/233779
+
+#EXTINF:-1 tvg-id="cbs8kfmb.us" tvg-name="USA: CBS San Diego" tvg-logo="http://titanicos.net:8080/images/d72490d8e9effea8cf8649eb42c61836.png" group-title="ENG - USA - CBS",USA: CBS San Diego
+http://megatitan.net:8080/Dario293m438/Ruben777m3/233802
+
 #EXTINF:-1 tvg-id="abcwabc.us" tvg-name="US: ABC HD New York" tvg-logo="http://209.127.181.98:8080/images/45f934e6eb054ad0c7d36639ca56880b.jpg" group-title="ENG - USA - ABC",US: ABC HD New York
 http://megatitan.net:8080/Dario293m438/Ruben777m3/233787
 
