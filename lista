@@ -10,6 +10,9 @@ http://megatitan.net:8080/movie/Dario293m438/Ruben777m3/113704.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La Sonora Dinamita Entre Amigos (LAT)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oY98OxJzhXmwpeId5puzMXHpow.jpg" group-title="LAT-VOD-Conciertos",La Sonora Dinamita Entre Amigos (LAT)
 http://megatitan.net:8080/movie/Dario293m438/Ruben777m3/113560.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="The Show a Tribute to ABBA (LAT)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOKyvSK3zRPGmJEz0I0r3gMFMc7.jpg" group-title="LAT-VOD-Conciertos",The Show a Tribute to ABBA (LAT)
+http://megatitan.net:8080/movie/Dario293m438/Ruben777m3/113744.mkv
+
 #EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="USA: VH1 Classic" tvg-logo="http://tvgo.re:8080/images/bf80c7e63c80362ae6167a9141585716.png" group-title="ENG - USA - Music Choice",USA: VH1 Classic
 http://megatitan.net:8080/Dario293m438/Ruben777m3/86063
 
