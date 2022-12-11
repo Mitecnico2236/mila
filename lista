@@ -27,6 +27,19 @@ http://hplay.xyz:80/Scarso/123456/43749
 http://hplay.xyz:80/Scarso/123456/43825
 
 
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="USA: NBC New York" tvg-logo="http://tvgo.re:8080/images/5e498e0c418b32ef0fbadac3d72d2896.png" group-title="ENG - USA - NBC",USA: NBC New York
+http://megatitan.net:8080/Dario293m438/Ruben777m3/30994
+
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="USA: CBS New York" tvg-logo="http://titanicos.net:8080/images/d72490d8e9effea8cf8649eb42c61836.png" group-title="ENG - USA - CBS",USA: CBS New York
+http://megatitan.net:8080/Dario293m438/Ruben777m3/233809
+
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="US: ABC HD New York" tvg-logo="http://209.127.181.98:8080/images/45f934e6eb054ad0c7d36639ca56880b.jpg" group-title="ENG - USA - ABC",US: ABC HD New York
+http://megatitan.net:8080/Dario293m438/Ruben777m3/233787
+
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="USA: Fox New York" tvg-logo="http://tvgo.ddns.net:8080/images/443d4f5b654e6ce4284539b2e43c94f6.png" group-title="ENG - USA - Fox",USA: Fox New York
+http://megatitan.net:8080/Dario293m438/Ruben777m3/232690
+
+
 #EXTINF:-1 tvg-id="MX - History HD" tvg-name="History Channel FHD (MX E)" tvg-logo="http://hidra.live:80/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="Latinos Dual Audio (E)",History Channel FHD (MX E)
 http://hidra.live:80/Scarso/123456/35197
 #EXTINF:-1 tvg-id="HolaTv.co" tvg-name="Hola! TV FHD (E)" tvg-logo="http://hidra.live:80/images/5a8e8a92306f9b9c7290cace6a0170ec.png" group-title="Latinos Dual Audio (E)",Hola! TV FHD (E)
