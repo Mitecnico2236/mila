@@ -1,11 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US: CBS New York FHD" tvg-logo="http://hidra.live:80/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA",US: CBS New York FH
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Azules Y Grupo CaÃ±averal Juntos Por La Cumbia (LAT)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AixzTO0ujreTVIUUgzQAMP3uGO.jpg" group-title="LAT-VOD-Conciertos",Los Angeles Azules Y Grupo CaÃ±averal Juntos Por La Cumbia (LAT)
 https://www.googleapis.com/drive/v3/files/1MNwPJrZkRV_RkBfRYy2O0WDCc2V_DF9m/?alt=media&key=AIzaSyBsLr050YLIACnxgxyAu08I2wXl_WAxnCU
 
 
+#EXTINF:-1 tvg-id="" tvg-name="La Sonora Dinamita Entre Amigos (LAT)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oY98OxJzhXmwpeId5puzMXHpow.jpg" group-title="LAT-VOD-Conciertos",La Sonora Dinamita Entre Amigos (LAT)
+http://megatitan.net:8080/movie/Dario293m438/Ruben777m3/113560.mp4
 
-
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="USA: VH1 Classic" tvg-logo="http://tvgo.re:8080/images/bf80c7e63c80362ae6167a9141585716.png" group-title="ENG - USA - Music Choice",USA: VH1 Classic
+http://megatitan.net:8080/Dario293m438/Ruben777m3/86063
 
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US: CBS New York FHD" tvg-logo="http://hidra.live:80/images/8e113caded25c50d7d81dc64aa07bb0d.png" group-title="USA",US: CBS New York FH
 https://www.googleapis.com/drive/v3/files/1rLjk842OVz4dIpGxGFa5J7hCf7DVY_3B/?alt=media&key=AIzaSyBsLr050YLIACnxgxyAu08I2wXl_WAxnCU
