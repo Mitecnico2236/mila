@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+https://drive.google.com/file/d/1789B9rvmqmbTlwEkq3KsIwvOeVa1Y2YW/view?usp=sharing
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="El dia despues de mañana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AixzTO0ujreTVIUUgzQAMP3uGO.jpg" group-title="Peliculas",El dia despues de mañana(LAT)
+https://www.googleapis.com/drive/v3/files/1789B9rvmqmbTlwEkq3KsIwvOeVa1Y2YW/?alt=media&key=AIzaSyBsLr050YLIACnxgxyAu08I2wXl_WAxnCU
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Y donde esta el piloto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AixzTO0ujreTVIUUgzQAMP3uGO.jpg" group-title="Peliculas",Y donde esta el piloto(LAT)
