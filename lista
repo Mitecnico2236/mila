@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Y donde esta el piloto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AixzTO0ujreTVIUUgzQAMP3uGO.jpg" group-title="Peliculas",Y donde esta el piloto(LAT)
+https://www.googleapis.com/drive/v3/files/1C3Wcfrlu3HC3qEwlN0X-E4Hs02og1sBA/?alt=media&key=AIzaSyBsLr050YLIACnxgxyAu08I2wXl_WAxnCU
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="El Inocente y las Pecadoras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AixzTO0ujreTVIUUgzQAMP3uGO.jpg" group-title="Peliculas",El Inocente y las Pecadoras(LAT)
 https://www.googleapis.com/drive/v3/files/1-K3A75bTVKPvvdIWy8PkOj2sLlJUH9QW/?alt=media&key=AIzaSyBsLr050YLIACnxgxyAu08I2wXl_WAxnCU
 
