@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="El Inocente y las Pecadoras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AixzTO0ujreTVIUUgzQAMP3uGO.jpg" group-title="Peliculas",El Inocente y las Pecadoras(LAT)
+https://www.googleapis.com/drive/v3/files/1-K3A75bTVKPvvdIWy8PkOj2sLlJUH9QW/?alt=media&key=AIzaSyBsLr050YLIACnxgxyAu08I2wXl_WAxnCU
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Black Panther: Wakanda Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="ES-VOD-Estrenos 2022",Black Panther: Wakanda Forever (2022)
 http://megatitan.net:8080/movie/Dario293m438/Ruben777m3/458605.mkv
 
