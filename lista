@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-id="NBCKING.us" tvg-name="US: NBC Los Angeles HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Los Angeles HD
+http://hidra.live:80/Scarso/123456/43822
 
 #EXTINF:-1 tvg-id="" tvg-name="American Bandstand" tvg-logo="https://m.media-amazon.com/images/I/51AUsK5vSzL._SY344_BO1,204,203,200_QL70_ML2_.jpg" group-title="Peliculas",American Bandstand(LAT)
 https://www.googleapis.com/drive/v3/files/1BnVWGShGZJyfej7ldgf_XBixUt5MuGsz?alt=media&key=AIzaSyBsLr050YLIACnxgxyAu08I2wXl_WAxnCU
