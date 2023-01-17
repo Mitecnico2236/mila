@@ -1,11 +1,126 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network HD US" tvg-logo="https://lh4.googleusercontent.com/-V_P5kDWxm20/AAAAAAAAAAI/AAAAAAAACFQ/pOgMC6p5ruY/s0-c-k-no-ns/photo.jpg" group-title="US Sports",NFL Network HD US
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/26457
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NOW HD US" tvg-logo="http://mikesandroid.info/UsaLogos/NFL%20NETWORK.png" group-title="US Sports",NFL NOW HD US
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/8235
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL Red Zone HD (Only Available On Sunday) US" tvg-logo="http://mikesandroid.info/UsaLogos/NFL%20RedZonepng.png" group-title="US Sports",NFL Red Zone HD (Only Available On Sunday) US
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/11955
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Bengals [WKRC] Cincinnati OH" tvg-logo="" group-title="US Sports",NFL - CBS Bengals [WKRC] Cincinnati OH
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117242
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Bills Giants Jets [WCBS] New York NY" tvg-logo="" group-title="US Sports",NFL - CBS Bills Giants Jets [WCBS] New York NY
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117243
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Bears [WBBM] Chicago IL" tvg-logo="" group-title="US Sports",NFL - CBS Bears [WBBM] Chicago IL
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117244
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Broncos [KCNC] Denver CO" tvg-logo="" group-title="US Sports",NFL - CBS Broncos [KCNC] Denver CO
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117245
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Browns [WOIO] Clevland OH" tvg-logo="" group-title="US Sports",NFL - CBS Browns [WOIO] Clevland OH
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117246
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Buccaneers [WTSP] St. Petersburg FL" tvg-logo="" group-title="US Sports",NFL - CBS Buccaneers [WTSP] St. Petersburg FL
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117247
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Cardinals [KPHO] Phoenix AZ" tvg-logo="" group-title="US Sports",NFL - CBS Cardinals [KPHO] Phoenix AZ
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117248
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Chargers [KFMB] San Diego CA" tvg-logo="" group-title="US Sports",NFL - CBS Chargers [KFMB] San Diego CA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117249
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Chiefs [KCTV] Kansas City MO" tvg-logo="" group-title="US Sports",NFL - CBS Chiefs [KCTV] Kansas City MO
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117250
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Chiefs Bears [KMOV] St. Louis MO" tvg-logo="" group-title="US Sports",NFL - CBS Chiefs Bears [KMOV] St. Louis MO
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117251
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Colts [WANE] Fort Wayne IN" tvg-logo="" group-title="US Sports",NFL - CBS Colts [WANE] Fort Wayne IN
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117252
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Colts [WTTV] Indianapolis IN" tvg-logo="" group-title="US Sports",NFL - CBS Colts [WTTV] Indianapolis IN
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117253
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Dolphins [WFOR] Miami FL" tvg-logo="" group-title="US Sports",NFL - CBS Dolphins [WFOR] Miami FL
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117254
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Falcons [WGCL] Atlanta GA" tvg-logo="" group-title="US Sports",NFL - CBS Falcons [WGCL] Atlanta GA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117255
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Jaguars [WJAX] Jacksonville FL" tvg-logo="" group-title="US Sports",NFL - CBS Jaguars [WJAX] Jacksonville FL
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117256
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Panthers [WBTV] Charlotte NC" tvg-logo="" group-title="US Sports",NFL - CBS Panthers [WBTV] Charlotte NC
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117257
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Patriots [WBZ] Boston MA" tvg-logo="" group-title="US Sports",NFL - CBS Patriots [WBZ] Boston MA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117258
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Raiders [KLAS] Las Vegas NV" tvg-logo="" group-title="US Sports",NFL - CBS Raiders [KLAS] Las Vegas NV
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117259
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Ravens [WJZ] Baltimore MD" tvg-logo="" group-title="US Sports",NFL - CBS Ravens [WJZ] Baltimore MD
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117260
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Steelers [KDKA-DT] Pittsburgh PA" tvg-logo="" group-title="US Sports",NFL - CBS Steelers [KDKA-DT] Pittsburgh PA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117261
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Texans [KENS] San Antonio TX" tvg-logo="" group-title="US Sports",NFL - CBS Texans [KENS] San Antonio TX
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117262
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CBS Titans [WTVF] Nashville TN" tvg-logo="" group-title="US Sports",NFL - CBS Titans [WTVF] Nashville TN
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117263
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX 49ers [KTVU] San Francisco CA" tvg-logo="" group-title="US Sports",NFL - FOX 49ers [KTVU] San Francisco CA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117264
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Bears [WFLD] Chicago IL" tvg-logo="" group-title="US Sports",NFL - FOX Bears [WFLD] Chicago IL
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117265
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Cardinals [KSAZ] Phoenix AZ" tvg-logo="" group-title="US Sports",NFL - FOX Cardinals [KSAZ] Phoenix AZ
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117266
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Cowboys [KDFW] Dallas TX" tvg-logo="" group-title="US Sports",NFL - FOX Cowboys [KDFW] Dallas TX
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117267
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Dolphins [WSVN] Miami FL" tvg-logo="" group-title="US Sports",NFL - FOX Dolphins [WSVN] Miami FL
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117268
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Eagles [WTXF] Philadelphia PA" tvg-logo="" group-title="US Sports",NFL - FOX Eagles [WTXF] Philadelphia PA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117269
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Falcons [WAGA] Atlanta GA" tvg-logo="" group-title="US Sports",NFL - FOX Falcons [WAGA] Atlanta GA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117270
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Lions [WJBK] Detroit MI" tvg-logo="" group-title="US Sports",NFL - FOX Lions [WJBK] Detroit MI
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117271
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Packers [KTVI] St. Louis MO" tvg-logo="" group-title="US Sports",NFL - FOX Packers [KTVI] St. Louis MO
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117272
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Rams [KTXL] Sacramento CA" tvg-logo="" group-title="US Sports",NFL - FOX Rams [KTXL] Sacramento CA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117273
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Redskins [WBFF] Baltimore MD" tvg-logo="" group-title="US Sports",NFL - FOX Redskins [WBFF] Baltimore MD
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117274
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Redskins [WTTG] Washington DC" tvg-logo="" group-title="US Sports",NFL - FOX Redskins [WTTG] Washington DC
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117275
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Saints [WVUE] New Orleans" tvg-logo="" group-title="US Sports",NFL - FOX Saints [WVUE] New Orleans
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117276
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Seahawks [KCPQ] Seattle WA" tvg-logo="" group-title="US Sports",NFL - FOX Seahawks [KCPQ] Seattle WA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117277
+#EXTINF:-1 tvg-id="" tvg-name="NFL - FOX Vikings [KMSP] Minneapolis MN" tvg-logo="" group-title="US Sports",NFL - FOX Vikings [KMSP] Minneapolis MN
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/117278
+
+
+
 #EXTINF:-1 tvg-id="NBCKING.us" tvg-name="US: NBC Los Angeles HD" tvg-logo="http://img.tvcl.xyz/usa/nbc.png" group-title="USA",US: NBC Los Angeles HD
 http://hidra.live:80/Scarso/123456/43822
 
 #EXTINF:-1 tvg-id="" tvg-name="American Bandstand" tvg-logo="https://m.media-amazon.com/images/I/51AUsK5vSzL._SY344_BO1,204,203,200_QL70_ML2_.jpg" group-title="Peliculas",American Bandstand(LAT)
 https://www.googleapis.com/drive/v3/files/1BnVWGShGZJyfej7ldgf_XBixUt5MuGsz?alt=media&key=AIzaSyBsLr050YLIACnxgxyAu08I2wXl_WAxnCU
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC 39 (KNSD) San Diego HD US" tvg-logo="" group-title="US NBC Network",NBC 39 (KNSD) San Diego HD US
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/72179
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC 4 (KNBC) Los Angeles HD US" tvg-logo="" group-title="US NBC Network",NBC 4 (KNBC) Los Angeles HD US
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/72135
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC 4 (WNBC) New York HD US" tvg-logo="" group-title="US NBC Network",NBC 4 (WNBC) New York HD US
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/72180
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX 11 (KTTV) Los Angeles HD US" tvg-logo="" group-title="US Fox Network",FOX 11 (KTTV) Los Angeles HD US
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/71772
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX 35 (KCBA) Salinas HD US" tvg-logo="" group-title="US Fox Network",FOX 35 (KCBA) Salinas HD US
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/71823
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX 40 (KTXL) Sacramento HD US" tvg-logo="" group-title="US Fox Network",FOX 40 (KTXL) Sacramento HD US
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/71753
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX 5 (WNYW) New York HD US" tvg-logo="" group-title="US Fox Network",FOX 5 (WNYW) New York HD US
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/71805
+
+
+
+
 
 
 
@@ -209,104 +324,719 @@ http://megatitan.net:8080/Dario293m438/Ruben777m3/233787
 #EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="USA: Fox New York" tvg-logo="http://tvgo.ddns.net:8080/images/443d4f5b654e6ce4284539b2e43c94f6.png" group-title="ENG - USA - Fox",USA: Fox New York
 http://megatitan.net:8080/Dario293m438/Ruben777m3/232690
 
-#EXTINF:-1 tvg-id="" tvg-name="RUS: 24" tvg-logo="https://docdog.top/logo/countries/russian/24.png" group-title="RUSSIAN",RUS: 24
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/51916.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: 24 DOK" tvg-logo="https://docdog.top/logo/countries/russian/n24doku.png" group-title="RUSSIAN",RUS: 24 DOK
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/51917.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: 24 TECHNO" tvg-logo="https://docdog.top/logo/countries/russian/techno24.png" group-title="RUSSIAN",RUS: 24 TECHNO
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/51918.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: 2X2 TV" tvg-logo="https://docdog.top/logo/countries/russian/2X2TV.jpg" group-title="RUSSIAN",RUS: 2X2 TV
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/51919.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: 360 TUNEBOX" tvg-logo="https://docdog.top/logo/countries/russian/360tunebox.png" group-title="RUSSIAN",RUS: 360 TUNEBOX
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/51920.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: 365 DAYS" tvg-logo="https://docdog.top/logo/countries/russian/365DAYS.jpg" group-title="RUSSIAN",RUS: 365 DAYS
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/51921.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: 365 DENI" tvg-logo="https://docdog.top/logo/countries/russian/365DENI.jpg" group-title="RUSSIAN",RUS: 365 DENI
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/51922.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: HDL" tvg-logo="https://docdog.top/logo/countries/russian/HDL.jpg" group-title="RUSSIAN",RUS: HDL
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/51923.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: A 2" tvg-logo="https://docdog.top/logo/countries/russian/a2.png" group-title="RUSSIAN",RUS: A 2
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/51924.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: ABTO 24" tvg-logo="https://docdog.top/logo/countries/russian/ABTO.jpg" group-title="RUSSIAN",RUS: ABTO 24
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/51925.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: RUSSIA 1" tvg-logo="https://docdog.top/logo/countries/russian/RUSSIA1.jpg" group-title="RUSSIAN",RUS: RUSSIA 1
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52060.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: RUSSIA 24" tvg-logo="https://docdog.top/logo/countries/russian/RUSSIA24.jpg" group-title="RUSSIAN",RUS: RUSSIA 24
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52061.ts
-#EXTINF:-1 tvg-id="" tvg-name="RUS: ZVEZDA" tvg-logo="https://docdog.top/logo/countries/russian/zvezda.png" group-title="RUSSIAN",RUS: ZVEZDA
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52114.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: 7 КАНАЛ" tvg-logo="https://docdog.top/logo/countries/ukraine/7КАНАЛ.jpg" group-title="UKRAINE",UKR: 7 КАНАЛ
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52128.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: 1+1" tvg-logo="https://docdog.top/logo/countries/ukraine/1+1.png" group-title="UKRAINE",UKR: 1+1
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52129.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: 100% NEWS" tvg-logo="https://docdog.top/logo/countries/ukraine/100news2.png" group-title="UKRAINE",UKR: 100% NEWS
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52130.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: 2+2" tvg-logo="https://docdog.top/logo/countries/ukraine/2+2.png" group-title="UKRAINE",UKR: 2+2
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52131.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: 24 КАНАЛ" tvg-logo="https://docdog.top/logo/countries/ukraine/24КАНАЛ.png" group-title="UKRAINE",UKR: 24 КАНАЛ
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52132.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: BIGUDI" tvg-logo="https://docdog.top/logo/countries/ukraine/bigudi.png" group-title="UKRAINE",UKR: BIGUDI
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52133.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: ENTER FILM" tvg-logo="https://docdog.top/logo/countries/ukraine/enterfilm.png" group-title="UKRAINE",UKR: ENTER FILM
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52134.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: ICTV" tvg-logo="https://docdog.top/logo/countries/ukraine/ICTV.png" group-title="UKRAINE",UKR: ICTV
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52135.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: K1" tvg-logo="https://docdog.top/logo/countries/ukraine/K1.jpg" group-title="UKRAINE",UKR: K1
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52136.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: K2" tvg-logo="https://docdog.top/logo/countries/ukraine/K2.png" group-title="UKRAINE",UKR: K2
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52137.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: KIEV STB" tvg-logo="https://docdog.top/logo/countries/ukraine/KIEVSTB.png" group-title="UKRAINE",UKR: KIEV STB
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52138.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: M1" tvg-logo="https://docdog.top/logo/countries/ukraine/m1.png" group-title="UKRAINE",UKR: M1
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52139.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: M2" tvg-logo="https://docdog.top/logo/countries/ukraine/m2.png" group-title="UKRAINE",UKR: M2
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52140.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: MAXXI TV" tvg-logo="https://docdog.top/logo/countries/ukraine/maxxitv.png" group-title="UKRAINE",UKR: MAXXI TV
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52141.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: MEGA" tvg-logo="https://docdog.top/logo/countries/ukraine/mega.png" group-title="UKRAINE",UKR: MEGA
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52142.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: MILADY TELEVISION" tvg-logo="https://docdog.top/logo/countries/ukraine/miladytelevision.png" group-title="UKRAINE",UKR: MILADY TELEVISION
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52143.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: NEWS NETWORK" tvg-logo="https://docdog.top/logo/countries/ukraine/newsnetwork7.png" group-title="UKRAINE",UKR: NEWS NETWORK
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52144.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: NOVY CHANNEL" tvg-logo="https://docdog.top/logo/countries/ukraine/NOVYCHANNEL.png" group-title="UKRAINE",UKR: NOVY CHANNEL
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52145.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: NTN" tvg-logo="https://docdog.top/logo/countries/ukraine/ntn24.png" group-title="UKRAINE",UKR: NTN
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52146.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: PLUS PLUS" tvg-logo="https://docdog.top/logo/countries/ukraine/PLUSPLUS.png" group-title="UKRAINE",UKR: PLUS PLUS
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52147.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: SONCE" tvg-logo="https://docdog.top/logo/countries/ukraine/sonce.png" group-title="UKRAINE",UKR: SONCE
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52148.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: TYSA 1" tvg-logo="https://docdog.top/logo/countries/ukraine/TYSA1.jpg" group-title="UKRAINE",UKR: TYSA 1
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52149.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: UNIAN TV" tvg-logo="https://docdog.top/logo/countries/ukraine/uniantv.png" group-title="UKRAINE",UKR: UNIAN TV
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52150.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: VINTAGE TV" tvg-logo="https://docdog.top/logo/countries/ukraine/vintagetv.png" group-title="UKRAINE",UKR: VINTAGE TV
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52151.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Tonis" tvg-logo="" group-title="UKRAINE",UKR: Tonis
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52152.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: QTV" tvg-logo="" group-title="UKRAINE",UKR: QTV
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52153.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: TET" tvg-logo="" group-title="UKRAINE",UKR: TET
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52154.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Indigo" tvg-logo="" group-title="UKRAINE",UKR: Indigo
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52155.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: ATR" tvg-logo="" group-title="UKRAINE",UKR: ATR
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52156.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: LALE" tvg-logo="" group-title="UKRAINE",UKR: LALE
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52157.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Black Sea Tv" tvg-logo="" group-title="UKRAINE",UKR: Black Sea Tv
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52158.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Zoom" tvg-logo="" group-title="UKRAINE",UKR: Zoom
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52159.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Pixel" tvg-logo="" group-title="UKRAINE",UKR: Pixel
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52160.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Inter Plus" tvg-logo="" group-title="UKRAINE",UKR: Inter Plus
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52161.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: PravadaTUT Kiev" tvg-logo="" group-title="UKRAINE",UKR: PravadaTUT Kiev
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52162.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Pravda TUT" tvg-logo="" group-title="UKRAINE",UKR: Pravda TUT
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52163.ts
-#EXTINF:-1 tvg-id="" tvg-name="UKR: Oboz tv" tvg-logo="" group-title="UKRAINE",UKR: Oboz tv
-http://flysilo.top:8080/live/511669554214097057/7081669554214097/52164.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="-= Ukraine =-" tvg-logo="" group-title="Ukraine",-= Ukraine =-
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64480
+#EXTINF:-1 tvg-id="1plus1mezhdunarodnyy.ua" tvg-name="1 1 International UA" tvg-logo="" group-title="Ukraine",1 1 International UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64478
+#EXTINF:-1 tvg-id="" tvg-name="1 Zahidniy UA" tvg-logo="" group-title="Ukraine",1 Zahidniy UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/403268
+#EXTINF:-1 tvg-id="1plus1.ua" tvg-name="1+1 UA" tvg-logo="" group-title="Ukraine",1+1 UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64479
+#EXTINF:-1 tvg-id="" tvg-name="100% News UA" tvg-logo="" group-title="Ukraine",100% News UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64477
+#EXTINF:-1 tvg-id="2plus2.ua" tvg-name="2+2 UA" tvg-logo="" group-title="Ukraine",2+2 UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64476
+#EXTINF:-1 tvg-id="" tvg-name="24 Канал FHD UA" tvg-logo="" group-title="Ukraine",24 Канал FHD UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64475
+#EXTINF:-1 tvg-id="5kanal.ua" tvg-name="5 Kanal UA" tvg-logo="" group-title="Ukraine",5 Kanal UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64474
+#EXTINF:-1 tvg-id="" tvg-name="7 канал HD UA" tvg-logo="" group-title="Ukraine",7 канал HD UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64461
+#EXTINF:-1 tvg-id="" tvg-name="8TV UA" tvg-logo="" group-title="Ukraine",8TV UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64469
+#EXTINF:-1 tvg-id="atr.ua" tvg-name="ATR UA" tvg-logo="" group-title="Ukraine",ATR UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64473
+#EXTINF:-1 tvg-id="" tvg-name="Bigudi UA" tvg-logo="" group-title="Ukraine",Bigudi UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64471
+#EXTINF:-1 tvg-id="" tvg-name="Black Sea TV UA" tvg-logo="" group-title="Ukraine",Black Sea TV UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/403272
+#EXTINF:-1 tvg-id="" tvg-name="Culture UA" tvg-logo="" group-title="Ukraine",Culture UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/403271
+#EXTINF:-1 tvg-id="enterfilm.ua" tvg-name="Enter Film UA" tvg-logo="" group-title="Ukraine",Enter Film UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64470
+#EXTINF:-1 tvg-id="" tvg-name="Espreso HD UA" tvg-logo="" group-title="Ukraine",Espreso HD UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64439
+#EXTINF:-1 tvg-id="ictv.ua" tvg-name="ICTV UA" tvg-logo="" group-title="Ukraine",ICTV UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64468
+#EXTINF:-1 tvg-id="" tvg-name="Inter plus UA" tvg-logo="" group-title="Ukraine",Inter plus UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64465
+#EXTINF:-1 tvg-id="" tvg-name="Inter UA" tvg-logo="" group-title="Ukraine",Inter UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64466
+#EXTINF:-1 tvg-id="" tvg-name="K1 UA" tvg-logo="" group-title="Ukraine",K1 UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64464
+#EXTINF:-1 tvg-id="" tvg-name="K2 UA" tvg-logo="" group-title="Ukraine",K2 UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64463
+#EXTINF:-1 tvg-id="" tvg-name="KIEV STB UA" tvg-logo="" group-title="Ukraine",KIEV STB UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64462
+#EXTINF:-1 tvg-id="" tvg-name="Kvartal TV UA" tvg-logo="" group-title="Ukraine",Kvartal TV UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64453
+#EXTINF:-1 tvg-id="lale.ua" tvg-name="LALE UA" tvg-logo="" group-title="Ukraine",LALE UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64460
+#EXTINF:-1 tvg-id="" tvg-name="M1 UA" tvg-logo="" group-title="Ukraine",M1 UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64459
+#EXTINF:-1 tvg-id="" tvg-name="M2 UA" tvg-logo="" group-title="Ukraine",M2 UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64458
+#EXTINF:-1 tvg-id="maxxitv.ua" tvg-name="Maxxi TV UA" tvg-logo="" group-title="Ukraine",Maxxi TV UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64457
+#EXTINF:-1 tvg-id="" tvg-name="MEGA UA" tvg-logo="" group-title="Ukraine",MEGA UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64456
+#EXTINF:-1 tvg-id="" tvg-name="Milady Television UA" tvg-logo="" group-title="Ukraine",Milady Television UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64455
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 24 HD UA" tvg-logo="" group-title="Ukraine",NEWS 24 HD UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64454
+#EXTINF:-1 tvg-id="" tvg-name="NOVY Channel UA" tvg-logo="" group-title="Ukraine",NOVY Channel UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64451
+#EXTINF:-1 tvg-id="" tvg-name="NTN UA" tvg-logo="" group-title="Ukraine",NTN UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64450
+#EXTINF:-1 tvg-id="" tvg-name="OBOZ TV UA" tvg-logo="" group-title="Ukraine",OBOZ TV UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/403274
+#EXTINF:-1 tvg-id="" tvg-name="Pershiy Ukraine UA" tvg-logo="" group-title="Ukraine",Pershiy Ukraine UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/403270
+#EXTINF:-1 tvg-id="" tvg-name="Pershiy-Nationalny UA" tvg-logo="" group-title="Ukraine",Pershiy-Nationalny UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64437
+#EXTINF:-1 tvg-id="" tvg-name="Pervy Delovoy UA" tvg-logo="" group-title="Ukraine",Pervy Delovoy UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64448
+#EXTINF:-1 tvg-id="" tvg-name="PIXEL UA" tvg-logo="" group-title="Ukraine",PIXEL UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64447
+#EXTINF:-1 tvg-id="" tvg-name="Plus Plus UA" tvg-logo="" group-title="Ukraine",Plus Plus UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64446
+#EXTINF:-1 tvg-id="otv.ua" tvg-name="Pravda TUT UA" tvg-logo="" group-title="Ukraine",Pravda TUT UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64449
+#EXTINF:-1 tvg-id="" tvg-name="PravdaTUT-Kyiv UA" tvg-logo="" group-title="Ukraine",PravdaTUT-Kyiv UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64436
+#EXTINF:-1 tvg-id="qtv.ua" tvg-name="QTV UA" tvg-logo="" group-title="Ukraine",QTV UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64445
+#EXTINF:-1 tvg-id="" tvg-name="Rada UA" tvg-logo="" group-title="Ukraine",Rada UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64472
+#EXTINF:-1 tvg-id="" tvg-name="Sonce UA" tvg-logo="" group-title="Ukraine",Sonce UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64444
+#EXTINF:-1 tvg-id="" tvg-name="Svarogichi UA" tvg-logo="" group-title="Ukraine",Svarogichi UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/403273
+#EXTINF:-1 tvg-id="" tvg-name="Televsesvit HD UA" tvg-logo="" group-title="Ukraine",Televsesvit HD UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/403267
+#EXTINF:-1 tvg-id="" tvg-name="TET UA" tvg-logo="" group-title="Ukraine",TET UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64443
+#EXTINF:-1 tvg-id="" tvg-name="Tonis UA" tvg-logo="" group-title="Ukraine",Tonis UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64442
+#EXTINF:-1 tvg-id="" tvg-name="TRK Ukraina UA" tvg-logo="" group-title="Ukraine",TRK Ukraina UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64441
+#EXTINF:-1 tvg-id="" tvg-name="Tysa 1 UA" tvg-logo="" group-title="Ukraine",Tysa 1 UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64440
+#EXTINF:-1 tvg-id="" tvg-name="Unian TV UA" tvg-logo="" group-title="Ukraine",Unian TV UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64438
+#EXTINF:-1 tvg-id="" tvg-name="Xsport HD UA " tvg-logo="" group-title="Ukraine",Xsport HD UA 
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/403269
+#EXTINF:-1 tvg-id="zoom.ua" tvg-name="ZOOM UA" tvg-logo="" group-title="Ukraine",ZOOM UA
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/64435
+#EXTINF:-1 tvg-id="" tvg-name="1 HD RU" tvg-logo="" group-title="Russia",1 HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445644
+#EXTINF:-1 tvg-id="" tvg-name="2X2 RU" tvg-logo="" group-title="Russia",2X2 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445646
+#EXTINF:-1 tvg-id="" tvg-name="360 Podmoskovie RU" tvg-logo="" group-title="Russia",360 Podmoskovie RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445647
+#EXTINF:-1 tvg-id="" tvg-name="365 Dnei RU" tvg-logo="" group-title="Russia",365 Dnei RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445648
+#EXTINF:-1 tvg-id="" tvg-name="5 KANAL RU" tvg-logo="" group-title="Russia",5 KANAL RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445649
+#EXTINF:-1 tvg-id="" tvg-name="8 KANAL RU" tvg-logo="" group-title="Russia",8 KANAL RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445650
+#EXTINF:-1 tvg-id="" tvg-name="A Home Of Hbo 2 HD RU" tvg-logo="" group-title="Russia",A Home Of Hbo 2 HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445651
+#EXTINF:-1 tvg-id="" tvg-name="A1 RU" tvg-logo="" group-title="Russia",A1 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445652
+#EXTINF:-1 tvg-id="" tvg-name="A2 RU" tvg-logo="" group-title="Russia",A2 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445653
+#EXTINF:-1 tvg-id="" tvg-name="ABTO24 RU" tvg-logo="" group-title="Russia",ABTO24 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445654
+#EXTINF:-1 tvg-id="" tvg-name="AMC RU" tvg-logo="" group-title="Russia",AMC RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445655
+#EXTINF:-1 tvg-id="" tvg-name="Amedia 2 RU" tvg-logo="" group-title="Russia",Amedia 2 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445657
+#EXTINF:-1 tvg-id="" tvg-name="Amedia HIT RU" tvg-logo="" group-title="Russia",Amedia HIT RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445658
+#EXTINF:-1 tvg-id="" tvg-name="Amedia HOME OF HBO 1 HD RU" tvg-logo="" group-title="Russia",Amedia HOME OF HBO 1 HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445659
+#EXTINF:-1 tvg-id="" tvg-name="Amedia Premium HD RU" tvg-logo="" group-title="Russia",Amedia Premium HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445661
+#EXTINF:-1 tvg-id="" tvg-name="Amedia Premium RU" tvg-logo="" group-title="Russia",Amedia Premium RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445660
+#EXTINF:-1 tvg-id="" tvg-name="Amedia RU" tvg-logo="" group-title="Russia",Amedia RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445656
+#EXTINF:-1 tvg-id="" tvg-name="ANI RU" tvg-logo="" group-title="Russia",ANI RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445662
+#EXTINF:-1 tvg-id="" tvg-name="Animal Family HD RU" tvg-logo="" group-title="Russia",Animal Family HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445663
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD RU" tvg-logo="" group-title="Russia",Animal Planet HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445665
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet RU" tvg-logo="" group-title="Russia",Animal Planet RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445664
+#EXTINF:-1 tvg-id="" tvg-name="Auto 24 RU" tvg-logo="" group-title="Russia",Auto 24 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445666
+#EXTINF:-1 tvg-id="" tvg-name="Auto Plus RU" tvg-logo="" group-title="Russia",Auto Plus RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445667
+#EXTINF:-1 tvg-id="" tvg-name="Bober TV RU" tvg-logo="" group-title="Russia",Bober TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445668
+#EXTINF:-1 tvg-id="" tvg-name="Boks TV RU" tvg-logo="" group-title="Russia",Boks TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445669
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood HD RU" tvg-logo="" group-title="Russia",Bollywood HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445671
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang TV RU" tvg-logo="" group-title="Russia",Boomerang TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445672
+#EXTINF:-1 tvg-id="" tvg-name="Box TV RU" tvg-logo="" group-title="Russia",Box TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445673
+#EXTINF:-1 tvg-id="" tvg-name="Bridge HITS HD RU" tvg-logo="" group-title="Russia",Bridge HITS HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445677
+#EXTINF:-1 tvg-id="" tvg-name="Bridge TV DANCE RU" tvg-logo="" group-title="Russia",Bridge TV DANCE RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445675
+#EXTINF:-1 tvg-id="" tvg-name="Bridge TV RU" tvg-logo="" group-title="Russia",Bridge TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445674
+#EXTINF:-1 tvg-id="" tvg-name="Bridge TV Russkiy Hit RU" tvg-logo="" group-title="Russia",Bridge TV Russkiy Hit RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445676
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network RU" tvg-logo="" group-title="Russia",Cartoon Network RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445678
+#EXTINF:-1 tvg-id="" tvg-name="CBS Reality RU" tvg-logo="" group-title="Russia",CBS Reality RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445679
+#EXTINF:-1 tvg-id="" tvg-name="Channel One RU" tvg-logo="" group-title="Russia",Channel One RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445680
+#EXTINF:-1 tvg-id="" tvg-name="CHE RU" tvg-logo="" group-title="Russia",CHE RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445681
+#EXTINF:-1 tvg-id="" tvg-name="CTC Kids HD RU" tvg-logo="" group-title="Russia",CTC Kids HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445624
+#EXTINF:-1 tvg-id="" tvg-name="CTC Love RU" tvg-logo="" group-title="Russia",CTC Love RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445683
+#EXTINF:-1 tvg-id="" tvg-name="Currenttime HD RU" tvg-logo="" group-title="Russia",Currenttime HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445684
+#EXTINF:-1 tvg-id="" tvg-name="Dange TV RU" tvg-logo="" group-title="Russia",Dange TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445685
+#EXTINF:-1 tvg-id="" tvg-name="DaVinci Learning RU" tvg-logo="" group-title="Russia",DaVinci Learning RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445686
+#EXTINF:-1 tvg-id="" tvg-name="Detskij RU" tvg-logo="" group-title="Russia",Detskij RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445687
+#EXTINF:-1 tvg-id="" tvg-name="Detskiy MIR RU" tvg-logo="" group-title="Russia",Detskiy MIR RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445688
+#EXTINF:-1 tvg-id="" tvg-name="Dialogi O Rybalke RU" tvg-logo="" group-title="Russia",Dialogi O Rybalke RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445640
+#EXTINF:-1 tvg-id="" tvg-name="Dikaya Okhota HD RU" tvg-logo="" group-title="Russia",Dikaya Okhota HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445689
+#EXTINF:-1 tvg-id="" tvg-name="Dikaya Rybalka HD RU" tvg-logo="" group-title="Russia",Dikaya Rybalka HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445690
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD RU" tvg-logo="" group-title="Russia",Discovery Channel HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445692
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel RU" tvg-logo="" group-title="Russia",Discovery Channel RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445691
+#EXTINF:-1 tvg-id="" tvg-name="Discovery DTX RU" tvg-logo="" group-title="Russia",Discovery DTX RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445693
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID XTRA HD RU" tvg-logo="" group-title="Russia",Discovery ID XTRA HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445694
+#EXTINF:-1 tvg-id="" tvg-name="Discovery SCIENCE HD RU" tvg-logo="" group-title="Russia",Discovery SCIENCE HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445696
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science RU" tvg-logo="" group-title="Russia",Discovery Science RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445695
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel RU" tvg-logo="" group-title="Russia",Disney Channel RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445698
+#EXTINF:-1 tvg-id="" tvg-name="Doctor HD RU" tvg-logo="" group-title="Russia",Doctor HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445699
+#EXTINF:-1 tvg-id="" tvg-name="Docubox HD RU" tvg-logo="" group-title="Russia",Docubox HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445700
+#EXTINF:-1 tvg-id="" tvg-name="Dojd HD RU" tvg-logo="" group-title="Russia",Dojd HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445701
+#EXTINF:-1 tvg-id="" tvg-name="Dom Kino Premium HD RU" tvg-logo="" group-title="Russia",Dom Kino Premium HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445706
+#EXTINF:-1 tvg-id="" tvg-name="DOM KINO RU" tvg-logo="" group-title="Russia",DOM KINO RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445702
+#EXTINF:-1 tvg-id="" tvg-name="Domashnie Jivotnie RU" tvg-logo="" group-title="Russia",Domashnie Jivotnie RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445703
+#EXTINF:-1 tvg-id="" tvg-name="Domashniy +7 RU" tvg-logo="" group-title="Russia",Domashniy +7 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445705
+#EXTINF:-1 tvg-id="" tvg-name="Domashniy RU" tvg-logo="" group-title="Russia",Domashniy RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445704
+#EXTINF:-1 tvg-id="" tvg-name="Dorama RU" tvg-logo="" group-title="Russia",Dorama RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445707
+#EXTINF:-1 tvg-id="" tvg-name="Dozd RU" tvg-logo="" group-title="Russia",Dozd RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445708
+#EXTINF:-1 tvg-id="" tvg-name="E TV RU" tvg-logo="" group-title="Russia",E TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445709
+#EXTINF:-1 tvg-id="" tvg-name="Eda HD RU " tvg-logo="" group-title="Russia",Eda HD RU 
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445710
+#EXTINF:-1 tvg-id="" tvg-name="EGOIST TV RU" tvg-logo="" group-title="Russia",EGOIST TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445711
+#EXTINF:-1 tvg-id="" tvg-name="Eureka HD RU" tvg-logo="" group-title="Russia",Eureka HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445713
+#EXTINF:-1 tvg-id="" tvg-name="Euronews RU" tvg-logo="" group-title="Russia",Euronews RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445714
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA PLUS TV RU" tvg-logo="" group-title="Russia",EUROPA PLUS TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445715
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD RU" tvg-logo="" group-title="Russia",Eurosport 2 HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445718
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport HD RU" tvg-logo="" group-title="Russia",Eurosport HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445717
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport RU" tvg-logo="" group-title="Russia",Eurosport RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445716
+#EXTINF:-1 tvg-id="" tvg-name="Evrokino RU" tvg-logo="" group-title="Russia",Evrokino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445719
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports RU" tvg-logo="" group-title="Russia",Extreme Sports RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445720
+#EXTINF:-1 tvg-id="" tvg-name="Fashion Television RU" tvg-logo="" group-title="Russia",Fashion Television RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445721
+#EXTINF:-1 tvg-id="" tvg-name="Feniks+Kino RU" tvg-logo="" group-title="Russia",Feniks+Kino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445722
+#EXTINF:-1 tvg-id="" tvg-name="Fenix+ Kino RU" tvg-logo="" group-title="Russia",Fenix+ Kino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445723
+#EXTINF:-1 tvg-id="" tvg-name="First Music Channel 1BY HD RU" tvg-logo="" group-title="Russia",First Music Channel 1BY HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445724
+#EXTINF:-1 tvg-id="" tvg-name="Food Network RU" tvg-logo="" group-title="Russia",Food Network RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445639
+#EXTINF:-1 tvg-id="" tvg-name="Glazami Turista RU" tvg-logo="" group-title="Russia",Glazami Turista RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445728
+#EXTINF:-1 tvg-id="" tvg-name="Glazella HD RU" tvg-logo="" group-title="Russia",Glazella HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445729
+#EXTINF:-1 tvg-id="" tvg-name="Gostiah U Skazki RU" tvg-logo="" group-title="Russia",Gostiah U Skazki RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445730
+#EXTINF:-1 tvg-id="" tvg-name="Gulli RU" tvg-logo="" group-title="Russia",Gulli RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445731
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD RU" tvg-logo="" group-title="Russia",H2 HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445732
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD RU" tvg-logo="" group-title="Russia",HISTORY HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445734
+#EXTINF:-1 tvg-id="" tvg-name="History RU" tvg-logo="" group-title="Russia",History RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445733
+#EXTINF:-1 tvg-id="" tvg-name="HIT RU" tvg-logo="" group-title="Russia",HIT RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445735
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood RU" tvg-logo="" group-title="Russia",Hollywood RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445736
+#EXTINF:-1 tvg-id="" tvg-name="HTB RU" tvg-logo="" group-title="Russia",HTB RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445737
+#EXTINF:-1 tvg-id="" tvg-name="iConcerts RU" tvg-logo="" group-title="Russia",iConcerts RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445738
+#EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery RU" tvg-logo="" group-title="Russia",ID Investigation Discovery RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445739
+#EXTINF:-1 tvg-id="" tvg-name="ID XTRA RU" tvg-logo="" group-title="Russia",ID XTRA RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445740
+#EXTINF:-1 tvg-id="" tvg-name="Illuzion Plus RU" tvg-logo="" group-title="Russia",Illuzion Plus RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445741
+#EXTINF:-1 tvg-id="" tvg-name="Indijskoe Kino RU" tvg-logo="" group-title="Russia",Indijskoe Kino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445742
+#EXTINF:-1 tvg-id="" tvg-name="Istoriya RU" tvg-logo="" group-title="Russia",Istoriya RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445743
+#EXTINF:-1 tvg-id="" tvg-name="Izvestiya HD RU" tvg-logo="" group-title="Russia",Izvestiya HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445621
+#EXTINF:-1 tvg-id="" tvg-name="Jara TV HD RU" tvg-logo="" group-title="Russia",Jara TV HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445632
+#EXTINF:-1 tvg-id="" tvg-name="Jim Jam RU" tvg-logo="" group-title="Russia",Jim Jam RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445744
+#EXTINF:-1 tvg-id="" tvg-name="Jimjam RU" tvg-logo="" group-title="Russia",Jimjam RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445745
+#EXTINF:-1 tvg-id="" tvg-name="Kapitan Fantastika RU" tvg-logo="" group-title="Russia",Kapitan Fantastika RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445747
+#EXTINF:-1 tvg-id="" tvg-name="Karusel RU" tvg-logo="" group-title="Russia",Karusel RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445748
+#EXTINF:-1 tvg-id="" tvg-name="KHL HD RU" tvg-logo="" group-title="Russia",KHL HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445750
+#EXTINF:-1 tvg-id="" tvg-name="KHL RU" tvg-logo="" group-title="Russia",KHL RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445749
+#EXTINF:-1 tvg-id="" tvg-name="Kineko HD RU" tvg-logo="" group-title="Russia",Kineko HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445726
+#EXTINF:-1 tvg-id="" tvg-name="Kineko RU" tvg-logo="" group-title="Russia",Kineko RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445725
+#EXTINF:-1 tvg-id="" tvg-name="KINO TV RU" tvg-logo="" group-title="Russia",KINO TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445751
+#EXTINF:-1 tvg-id="" tvg-name="Kinohit RU" tvg-logo="" group-title="Russia",Kinohit RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445752
+#EXTINF:-1 tvg-id="" tvg-name="KinoKomedia TV HD RU" tvg-logo="" group-title="Russia",KinoKomedia TV HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445753
+#EXTINF:-1 tvg-id="" tvg-name="Kinomix RU" tvg-logo="" group-title="Russia",Kinomix RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445754
+#EXTINF:-1 tvg-id="" tvg-name="Kinopokaz 2 HD RU" tvg-logo="" group-title="Russia",Kinopokaz 2 HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445755
+#EXTINF:-1 tvg-id="" tvg-name="Kinopremiera HD RU" tvg-logo="" group-title="Russia",Kinopremiera HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445756
+#EXTINF:-1 tvg-id="" tvg-name="Kinoserija HD RU" tvg-logo="" group-title="Russia",Kinoserija HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445758
+#EXTINF:-1 tvg-id="" tvg-name="Kinoserija RU" tvg-logo="" group-title="Russia",Kinoserija RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445757
+#EXTINF:-1 tvg-id="" tvg-name="Kinosvidanie HD RU" tvg-logo="" group-title="Russia",Kinosvidanie HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445759
+#EXTINF:-1 tvg-id="" tvg-name="Kinoujas RU" tvg-logo="" group-title="Russia",Kinoujas RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445630
+#EXTINF:-1 tvg-id="" tvg-name="Komedija Tv RU" tvg-logo="" group-title="Russia",Komedija Tv RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445760
+#EXTINF:-1 tvg-id="" tvg-name="Konniy MIR HD RU" tvg-logo="" group-title="Russia",Konniy MIR HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445761
+#EXTINF:-1 tvg-id="" tvg-name="Krik TV RU" tvg-logo="" group-title="Russia",Krik TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445762
+#EXTINF:-1 tvg-id="" tvg-name="KTNO TV RU" tvg-logo="" group-title="Russia",KTNO TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445763
+#EXTINF:-1 tvg-id="" tvg-name="KTO EST KTO RU" tvg-logo="" group-title="Russia",KTO EST KTO RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445764
+#EXTINF:-1 tvg-id="" tvg-name="Kuchnia TV RU" tvg-logo="" group-title="Russia",Kuchnia TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445765
+#EXTINF:-1 tvg-id="" tvg-name="Kuhnya TV RU" tvg-logo="" group-title="Russia",Kuhnya TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445766
+#EXTINF:-1 tvg-id="" tvg-name="KVN TV RU" tvg-logo="" group-title="Russia",KVN TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445767
+#EXTINF:-1 tvg-id="" tvg-name="La minor RU" tvg-logo="" group-title="Russia",La minor RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445768
+#EXTINF:-1 tvg-id="" tvg-name="Life HD RU" tvg-logo="" group-title="Russia",Life HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445769
+#EXTINF:-1 tvg-id="" tvg-name="Lubimoe Kino RU" tvg-logo="" group-title="Russia",Lubimoe Kino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445770
+#EXTINF:-1 tvg-id="" tvg-name="Luxuri World RU" tvg-logo="" group-title="Russia",Luxuri World RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445771
+#EXTINF:-1 tvg-id="" tvg-name="M1 Global RU" tvg-logo="" group-title="Russia",M1 Global RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445772
+#EXTINF:-1 tvg-id="" tvg-name="Mama RU" tvg-logo="" group-title="Russia",Mama RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445773
+#EXTINF:-1 tvg-id="" tvg-name="MATCH ARENA HD RU" tvg-logo="" group-title="Russia",MATCH ARENA HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445775
+#EXTINF:-1 tvg-id="" tvg-name="Match Arena RU" tvg-logo="" group-title="Russia",Match Arena RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445774
+#EXTINF:-1 tvg-id="" tvg-name="MATCH FOOTBALL 1 FHD RU" tvg-logo="" group-title="Russia",MATCH FOOTBALL 1 FHD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445777
+#EXTINF:-1 tvg-id="" tvg-name="MATCH FOOTBALL 1 RU" tvg-logo="" group-title="Russia",MATCH FOOTBALL 1 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445776
+#EXTINF:-1 tvg-id="" tvg-name="MATCH FOOTBALL 2 FHD RU" tvg-logo="" group-title="Russia",MATCH FOOTBALL 2 FHD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445779
+#EXTINF:-1 tvg-id="" tvg-name="MATCH FOOTBALL 2 RU" tvg-logo="" group-title="Russia",MATCH FOOTBALL 2 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445778
+#EXTINF:-1 tvg-id="" tvg-name="MATCH FOOTBALL 3 FHD RU" tvg-logo="" group-title="Russia",MATCH FOOTBALL 3 FHD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445781
+#EXTINF:-1 tvg-id="" tvg-name="MATCH FOOTBALL 3 RU" tvg-logo="" group-title="Russia",MATCH FOOTBALL 3 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445780
+#EXTINF:-1 tvg-id="" tvg-name="MATCH IGRA HD RU" tvg-logo="" group-title="Russia",MATCH IGRA HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445783
+#EXTINF:-1 tvg-id="" tvg-name="MATCH IGRA RU " tvg-logo="" group-title="Russia",MATCH IGRA RU 
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445782
+#EXTINF:-1 tvg-id="" tvg-name="MATCH NASH Sport RU" tvg-logo="" group-title="Russia",MATCH NASH Sport RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445784
+#EXTINF:-1 tvg-id="" tvg-name="MATCH PREMIER FHD RU" tvg-logo="" group-title="Russia",MATCH PREMIER FHD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445643
+#EXTINF:-1 tvg-id="" tvg-name="Match Premier RU" tvg-logo="" group-title="Russia",Match Premier RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445627
+#EXTINF:-1 tvg-id="" tvg-name="Match Strana HD RU" tvg-logo="" group-title="Russia",Match Strana HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445785
+#EXTINF:-1 tvg-id="" tvg-name="MATCH TV RU" tvg-logo="" group-title="Russia",MATCH TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445786
+#EXTINF:-1 tvg-id="" tvg-name="Match! Futbol 2 HD RU" tvg-logo="" group-title="Russia",Match! Futbol 2 HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445787
+#EXTINF:-1 tvg-id="" tvg-name="Match! Futbol 3 HD RU" tvg-logo="" group-title="Russia",Match! Futbol 3 HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445788
+#EXTINF:-1 tvg-id="" tvg-name="MATCH_BOEC RU" tvg-logo="" group-title="Russia",MATCH_BOEC RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445789
+#EXTINF:-1 tvg-id="" tvg-name="MATCH_HD RU" tvg-logo="" group-title="Russia",MATCH_HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445790
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP RU" tvg-logo="" group-title="Russia",MCM TOP RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445791
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO RU" tvg-logo="" group-title="Russia",MEZZO RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445792
+#EXTINF:-1 tvg-id="" tvg-name="MIR Basketballa" tvg-logo="" group-title="Russia",MIR Basketballa
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445628
+#EXTINF:-1 tvg-id="" tvg-name="MIR HD RU" tvg-logo="" group-title="Russia",MIR HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445794
+#EXTINF:-1 tvg-id="" tvg-name="MIR Premium HD RU" tvg-logo="" group-title="Russia",MIR Premium HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445629
+#EXTINF:-1 tvg-id="" tvg-name="MIR RU" tvg-logo="" group-title="Russia",MIR RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445793
+#EXTINF:-1 tvg-id="" tvg-name="MIR Seriala RU" tvg-logo="" group-title="Russia",MIR Seriala RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445796
+#EXTINF:-1 tvg-id="" tvg-name="MIR24 RU" tvg-logo="" group-title="Russia",MIR24 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445795
+#EXTINF:-1 tvg-id="" tvg-name="Morskoi RU" tvg-logo="" group-title="Russia",Morskoi RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445797
+#EXTINF:-1 tvg-id="" tvg-name="Moskva 24 RU" tvg-logo="" group-title="Russia",Moskva 24 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445798
+#EXTINF:-1 tvg-id="" tvg-name="Moskva-Doveriye RU" tvg-logo="" group-title="Russia",Moskva-Doveriye RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445799
+#EXTINF:-1 tvg-id="" tvg-name="Motorsport TV RU" tvg-logo="" group-title="Russia",Motorsport TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445800
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD RU" tvg-logo="" group-title="Russia",MTV LIVE HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445801
+#EXTINF:-1 tvg-id="" tvg-name="Mult I Muzika RU" tvg-logo="" group-title="Russia",Mult I Muzika RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445803
+#EXTINF:-1 tvg-id="" tvg-name="Mult RU" tvg-logo="" group-title="Russia",Mult RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445802
+#EXTINF:-1 tvg-id="" tvg-name="Multimania RU" tvg-logo="" group-title="Russia",Multimania RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445804
+#EXTINF:-1 tvg-id="" tvg-name="Mulytimaniya RU" tvg-logo="" group-title="Russia",Mulytimaniya RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445805
+#EXTINF:-1 tvg-id="" tvg-name="Museum FHD RU" tvg-logo="" group-title="Russia",Museum FHD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445638
+#EXTINF:-1 tvg-id="" tvg-name="MUZ RU" tvg-logo="" group-title="Russia",MUZ RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445806
+#EXTINF:-1 tvg-id="" tvg-name="Muzhskoe Kino RU" tvg-logo="" group-title="Russia",Muzhskoe Kino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445807
+#EXTINF:-1 tvg-id="" tvg-name="Muzika Pervogo RU" tvg-logo="" group-title="Russia",Muzika Pervogo RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445808
+#EXTINF:-1 tvg-id="" tvg-name="MyZen TV HD RU" tvg-logo="" group-title="Russia",MyZen TV HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445809
+#EXTINF:-1 tvg-id="" tvg-name="Nash Kinoroman RU" tvg-logo="" group-title="Russia",Nash Kinoroman RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445810
+#EXTINF:-1 tvg-id="" tvg-name="Nashe Krutoe RU" tvg-logo="" group-title="Russia",Nashe Krutoe RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445811
+#EXTINF:-1 tvg-id="" tvg-name="Nashe Liubimoje Kino RU" tvg-logo="" group-title="Russia",Nashe Liubimoje Kino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445812
+#EXTINF:-1 tvg-id="" tvg-name="Nashe Novoe Kino RU" tvg-logo="" group-title="Russia",Nashe Novoe Kino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445813
+#EXTINF:-1 tvg-id="" tvg-name="Nashe Rodnoe_Kino RU" tvg-logo="" group-title="Russia",Nashe Rodnoe_Kino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445814
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD RU" tvg-logo="" group-title="Russia",Nat Geo Wild HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445816
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild RU" tvg-logo="" group-title="Russia",Nat Geo Wild RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445815
+#EXTINF:-1 tvg-id="" tvg-name="Nauka 2 RU" tvg-logo="" group-title="Russia",Nauka 2 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445819
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior RU" tvg-logo="" group-title="Russia",Nick Junior RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445820
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD RU" tvg-logo="" group-title="Russia",Nickelodeon HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445822
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon RU" tvg-logo="" group-title="Russia",Nickelodeon RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445821
+#EXTINF:-1 tvg-id="" tvg-name="Nostalgija RU" tvg-logo="" group-title="Russia",Nostalgija RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445823
+#EXTINF:-1 tvg-id="" tvg-name="NST TV RU" tvg-logo="" group-title="Russia",NST TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445824
+#EXTINF:-1 tvg-id="" tvg-name="NTV HD RU" tvg-logo="" group-title="Russia",NTV HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445825
+#EXTINF:-1 tvg-id="" tvg-name="O! RU" tvg-logo="" group-title="Russia",O! RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445826
+#EXTINF:-1 tvg-id="" tvg-name="Ohota i Rybalka RU" tvg-logo="" group-title="Russia",Ohota i Rybalka RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445827
+#EXTINF:-1 tvg-id="" tvg-name="Ohotnik i Rybolov HD RU" tvg-logo="" group-title="Russia",Ohotnik i Rybolov HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445828
+#EXTINF:-1 tvg-id="" tvg-name="Oruzhie RU" tvg-logo="" group-title="Russia",Oruzhie RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445829
+#EXTINF:-1 tvg-id="" tvg-name="Ostrosyuzhetnoye Kino HD RU" tvg-logo="" group-title="Russia",Ostrosyuzhetnoye Kino HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445830
+#EXTINF:-1 tvg-id="" tvg-name="Paramount ChanneL HD RU" tvg-logo="" group-title="Russia",Paramount ChanneL HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445637
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Comedy HD RU" tvg-logo="" group-title="Russia",Paramount Comedy HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445833
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Comedy RU" tvg-logo="" group-title="Russia",Paramount Comedy RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445832
+#EXTINF:-1 tvg-id="" tvg-name="PEH TB RU" tvg-logo="" group-title="Russia",PEH TB RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445834
+#EXTINF:-1 tvg-id="" tvg-name="Perviy Avtomobilniy HD RU" tvg-logo="" group-title="Russia",Perviy Avtomobilniy HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445835
+#EXTINF:-1 tvg-id="" tvg-name="Perviy Kanal Europe RU" tvg-logo="" group-title="Russia",Perviy Kanal Europe RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445837
+#EXTINF:-1 tvg-id="" tvg-name="PERVIY KANAL HD RU" tvg-logo="" group-title="Russia",PERVIY KANAL HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445838
+#EXTINF:-1 tvg-id="" tvg-name="PERVIY KANAL RU" tvg-logo="" group-title="Russia",PERVIY KANAL RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445836
+#EXTINF:-1 tvg-id="" tvg-name="Perviy Obrazovatelniy RU" tvg-logo="" group-title="Russia",Perviy Obrazovatelniy RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445839
+#EXTINF:-1 tvg-id="" tvg-name="PRAVO RU" tvg-logo="" group-title="Russia",PRAVO RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445840
+#EXTINF:-1 tvg-id="" tvg-name="Priklyucheniya HD RU" tvg-logo="" group-title="Russia",Priklyucheniya HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445841
+#EXTINF:-1 tvg-id="" tvg-name="Prodvijenie RU" tvg-logo="" group-title="Russia",Prodvijenie RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445842
+#EXTINF:-1 tvg-id="" tvg-name="Psihologia 21 RU" tvg-logo="" group-title="Russia",Psihologia 21 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445843
+#EXTINF:-1 tvg-id="" tvg-name="Pyatit Kanal RU" tvg-logo="" group-title="Russia",Pyatit Kanal RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445844
+#EXTINF:-1 tvg-id="" tvg-name="Pyatnica! International RU" tvg-logo="" group-title="Russia",Pyatnica! International RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445626
+#EXTINF:-1 tvg-id="" tvg-name="Pyatnitsa! RU" tvg-logo="" group-title="Russia",Pyatnitsa! RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445845
+#EXTINF:-1 tvg-id="" tvg-name="RBK TV RU" tvg-logo="" group-title="Russia",RBK TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445846
+#EXTINF:-1 tvg-id="" tvg-name="REN TV HD RU" tvg-logo="" group-title="Russia",REN TV HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445847
+#EXTINF:-1 tvg-id="" tvg-name="Retro TV RU" tvg-logo="" group-title="Russia",Retro TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445848
+#EXTINF:-1 tvg-id="" tvg-name="Rijiy RU" tvg-logo="" group-title="Russia",Rijiy RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445623
+#EXTINF:-1 tvg-id="" tvg-name="Rodnoe Kino RU" tvg-logo="" group-title="Russia",Rodnoe Kino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445858
+#EXTINF:-1 tvg-id="" tvg-name="ROSSIYA 1 HD RU" tvg-logo="" group-title="Russia",ROSSIYA 1 HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445850
+#EXTINF:-1 tvg-id="" tvg-name="ROSSIYA 1 RU" tvg-logo="" group-title="Russia",ROSSIYA 1 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445849
+#EXTINF:-1 tvg-id="" tvg-name="Rossiya-24 RU" tvg-logo="" group-title="Russia",Rossiya-24 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445851
+#EXTINF:-1 tvg-id="" tvg-name="RT Doc RU" tvg-logo="" group-title="Russia",RT Doc RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445852
+#EXTINF:-1 tvg-id="" tvg-name="RT HD RU" tvg-logo="" group-title="Russia",RT HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445853
+#EXTINF:-1 tvg-id="" tvg-name="RTG HD RU" tvg-logo="" group-title="Russia",RTG HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445854
+#EXTINF:-1 tvg-id="" tvg-name="RTG TV RU" tvg-logo="" group-title="Russia",RTG TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445855
+#EXTINF:-1 tvg-id="" tvg-name="Rtr Planeta RU" tvg-logo="" group-title="Russia",Rtr Planeta RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445856
+#EXTINF:-1 tvg-id="" tvg-name="RTVI RU" tvg-logo="" group-title="Russia",RTVI RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445857
+#EXTINF:-1 tvg-id="" tvg-name="RU TV RU" tvg-logo="" group-title="Russia",RU TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445859
+#EXTINF:-1 tvg-id="" tvg-name="Russia K RU" tvg-logo="" group-title="Russia",Russia K RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445860
+#EXTINF:-1 tvg-id="" tvg-name="Russian Illuzion RU" tvg-logo="" group-title="Russia",Russian Illuzion RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445865
+#EXTINF:-1 tvg-id="" tvg-name="Russian Musicbox HD RU" tvg-logo="" group-title="Russia",Russian Musicbox HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445636
+#EXTINF:-1 tvg-id="" tvg-name="Russian Musicbox RU" tvg-logo="" group-title="Russia",Russian Musicbox RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445861
+#EXTINF:-1 tvg-id="" tvg-name="Russkaya Komedia RU" tvg-logo="" group-title="Russia",Russkaya Komedia RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445862
+#EXTINF:-1 tvg-id="" tvg-name="Russkij Bestseller RU" tvg-logo="" group-title="Russia",Russkij Bestseller RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445863
+#EXTINF:-1 tvg-id="" tvg-name="Russkij Roman RU" tvg-logo="" group-title="Russia",Russkij Roman RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445864
+#EXTINF:-1 tvg-id="" tvg-name="Russkiy Detektiv RU" tvg-logo="" group-title="Russia",Russkiy Detektiv RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445866
+#EXTINF:-1 tvg-id="" tvg-name="Russkiy Extrim HD RU" tvg-logo="" group-title="Russia",Russkiy Extrim HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445867
+#EXTINF:-1 tvg-id="" tvg-name="RUTV RU" tvg-logo="" group-title="Russia",RUTV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445635
+#EXTINF:-1 tvg-id="" tvg-name="Saint Peterburg RU" tvg-logo="" group-title="Russia",Saint Peterburg RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445868
+#EXTINF:-1 tvg-id="" tvg-name="Saphire RU" tvg-logo="" group-title="Russia",Saphire RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445727
+#EXTINF:-1 tvg-id="" tvg-name="Sarafan RU" tvg-logo="" group-title="Russia",Sarafan RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445869
+#EXTINF:-1 tvg-id="" tvg-name="SCARRY MOVIE HD RU" tvg-logo="" group-title="Russia",SCARRY MOVIE HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445641
+#EXTINF:-1 tvg-id="" tvg-name="Serial RU" tvg-logo="" group-title="Russia",Serial RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445870
+#EXTINF:-1 tvg-id="" tvg-name="SET HD RU" tvg-logo="" group-title="Russia",SET HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445871
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sport 2 RU" tvg-logo="" group-title="Russia",Setanta Sport 2 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445873
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORTS 1 FHD RU" tvg-logo="" group-title="Russia",SETANTA SPORTS 1 FHD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445872
+#EXTINF:-1 tvg-id="" tvg-name="SHANSON TV RU" tvg-logo="" group-title="Russia",SHANSON TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445874
+#EXTINF:-1 tvg-id="" tvg-name="Shokiruyuschee RU" tvg-logo="" group-title="Russia",Shokiruyuschee RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445875
+#EXTINF:-1 tvg-id="" tvg-name="Shot TV RU" tvg-logo="" group-title="Russia",Shot TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445876
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sci-Fi RU" tvg-logo="" group-title="Russia",Sony Sci-Fi RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445878
+#EXTINF:-1 tvg-id="" tvg-name="SONY TURBO RU" tvg-logo="" group-title="Russia",SONY TURBO RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445880
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV HD RU" tvg-logo="" group-title="Russia",SONY TV HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445879
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV RU" tvg-logo="" group-title="Russia",Sony TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445877
+#EXTINF:-1 tvg-id="" tvg-name="Sovershenno Sekretno RU" tvg-logo="" group-title="Russia",Sovershenno Sekretno RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445881
+#EXTINF:-1 tvg-id="" tvg-name="SPAS TV RU" tvg-logo="" group-title="Russia",SPAS TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445625
+#EXTINF:-1 tvg-id="" tvg-name="Start Tv RU" tvg-logo="" group-title="Russia",Start Tv RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445642
+#EXTINF:-1 tvg-id="" tvg-name="Strana RU" tvg-logo="" group-title="Russia",Strana RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445882
+#EXTINF:-1 tvg-id="" tvg-name="Strashnoe RU" tvg-logo="" group-title="Russia",Strashnoe RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445883
+#EXTINF:-1 tvg-id="" tvg-name="STS Baltic RU" tvg-logo="" group-title="Russia",STS Baltic RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445885
+#EXTINF:-1 tvg-id="" tvg-name="STS Kids RU" tvg-logo="" group-title="Russia",STS Kids RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445886
+#EXTINF:-1 tvg-id="" tvg-name="STS RU" tvg-logo="" group-title="Russia",STS RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445884
+#EXTINF:-1 tvg-id="" tvg-name="Style RU" tvg-logo="" group-title="Russia",Style RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445887
+#EXTINF:-1 tvg-id="" tvg-name="Subbota HD RU" tvg-logo="" group-title="Russia",Subbota HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445888
+#EXTINF:-1 tvg-id="" tvg-name="Telekafe RU" tvg-logo="" group-title="Russia",Telekafe RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445889
+#EXTINF:-1 tvg-id="" tvg-name="Telekanal Futbol RU" tvg-logo="" group-title="Russia",Telekanal Futbol RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445890
+#EXTINF:-1 tvg-id="" tvg-name="Terra HD RU" tvg-logo="" group-title="Russia",Terra HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445818
+#EXTINF:-1 tvg-id="" tvg-name="Terra RU" tvg-logo="" group-title="Russia",Terra RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445817
+#EXTINF:-1 tvg-id="" tvg-name="Tiji RU" tvg-logo="" group-title="Russia",Tiji RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445893
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD RU" tvg-logo="" group-title="Russia",TLC HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445895
+#EXTINF:-1 tvg-id="" tvg-name="TLUM HD RU" tvg-logo="" group-title="Russia",TLUM HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445896
+#EXTINF:-1 tvg-id="" tvg-name="TNT +7 RU" tvg-logo="" group-title="Russia",TNT +7 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445898
+#EXTINF:-1 tvg-id="" tvg-name="TNT 4 RU" tvg-logo="" group-title="Russia",TNT 4 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445892
+#EXTINF:-1 tvg-id="" tvg-name="TNT Music RU" tvg-logo="" group-title="Russia",TNT Music RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445900
+#EXTINF:-1 tvg-id="" tvg-name="TNT RU" tvg-logo="" group-title="Russia",TNT RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445897
+#EXTINF:-1 tvg-id="" tvg-name="TNT RU" tvg-logo="" group-title="Russia",TNT RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445891
+#EXTINF:-1 tvg-id="" tvg-name="TNT4 RU" tvg-logo="" group-title="Russia",TNT4 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445901
+#EXTINF:-1 tvg-id="" tvg-name="Tochka Otriva RU" tvg-logo="" group-title="Russia",Tochka Otriva RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445902
+#EXTINF:-1 tvg-id="" tvg-name="Travel Adventure HD RU" tvg-logo="" group-title="Russia",Travel Adventure HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445906
+#EXTINF:-1 tvg-id="" tvg-name="Travel Adventure RU" tvg-logo="" group-title="Russia",Travel Adventure RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445904
+#EXTINF:-1 tvg-id="" tvg-name="Travel HD RU" tvg-logo="" group-title="Russia",Travel HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445905
+#EXTINF:-1 tvg-id="" tvg-name="Travel RU" tvg-logo="" group-title="Russia",Travel RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445903
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 RU" tvg-logo="" group-title="Russia",TV 3 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445907
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 Premium HD RU" tvg-logo="" group-title="Russia",TV1000 Premium HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445911
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 RU" tvg-logo="" group-title="Russia",TV1000 RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445909
+#EXTINF:-1 tvg-id="" tvg-name="TV1000 Russkoje Kino RU" tvg-logo="" group-title="Russia",TV1000 Russkoje Kino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445912
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde HD RU" tvg-logo="" group-title="Russia",TV5 Monde HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445634
+#EXTINF:-1 tvg-id="" tvg-name="TVCI RU" tvg-logo="" group-title="Russia",TVCI RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445913
+#EXTINF:-1 tvg-id="" tvg-name="U RU" tvg-logo="" group-title="Russia",U RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445914
+#EXTINF:-1 tvg-id="" tvg-name="U TV RU" tvg-logo="" group-title="Russia",U TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445915
+#EXTINF:-1 tvg-id="" tvg-name="Unikom RU" tvg-logo="" group-title="Russia",Unikom RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445622
+#EXTINF:-1 tvg-id="" tvg-name="USADBA TV RU" tvg-logo="" group-title="Russia",USADBA TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445916
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore HD RU" tvg-logo="" group-title="Russia",Viasat Explore HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445918
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore RU" tvg-logo="" group-title="Russia",Viasat Explore RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445917
+#EXTINF:-1 tvg-id="" tvg-name="Viasat History HD RU" tvg-logo="" group-title="Russia",Viasat History HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445920
+#EXTINF:-1 tvg-id="" tvg-name="Viasat History RU" tvg-logo="" group-title="Russia",Viasat History RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445919
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature/History HD RU" tvg-logo="" group-title="Russia",Viasat Nature/History HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445633
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature/History RU" tvg-logo="" group-title="Russia",Viasat Nature/History RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445921
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT SPORT HD RU" tvg-logo="" group-title="Russia",VIASAT SPORT HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445923
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT SPORT RU" tvg-logo="" group-title="Russia",VIASAT SPORT RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445922
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Tv1000 Russian Kino RU" tvg-logo="" group-title="Russia",Viasat Tv1000 Russian Kino RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445924
+#EXTINF:-1 tvg-id="" tvg-name="VIP Comedy HD RU" tvg-logo="" group-title="Russia",VIP Comedy HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445925
+#EXTINF:-1 tvg-id="" tvg-name="VIP Megahit HD RU" tvg-logo="" group-title="Russia",VIP Megahit HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445926
+#EXTINF:-1 tvg-id="" tvg-name="VIP Premiere RU" tvg-logo="" group-title="Russia",VIP Premiere RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445927
+#EXTINF:-1 tvg-id="" tvg-name="VIP Serial HD RU" tvg-logo="" group-title="Russia",VIP Serial HD RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445928
+#EXTINF:-1 tvg-id="" tvg-name="Voprosi i Otveti RU" tvg-logo="" group-title="Russia",Voprosi i Otveti RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445929
+#EXTINF:-1 tvg-id="" tvg-name="Vremya RU" tvg-logo="" group-title="Russia",Vremya RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445930
+#EXTINF:-1 tvg-id="" tvg-name="World Fashion RU" tvg-logo="" group-title="Russia",World Fashion RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445931
+#EXTINF:-1 tvg-id="" tvg-name="Zagorodnaya Zhizn RU" tvg-logo="" group-title="Russia",Zagorodnaya Zhizn RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445932
+#EXTINF:-1 tvg-id="" tvg-name="Zagorodniy HD RU Ruruint RU" tvg-logo="" group-title="Russia",Zagorodniy HD RU Ruruint RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445934
+#EXTINF:-1 tvg-id="" tvg-name="Zagorodniy RU" tvg-logo="" group-title="Russia",Zagorodniy RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445933
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV RU" tvg-logo="" group-title="Russia",ZEE TV RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445936
+#EXTINF:-1 tvg-id="" tvg-name="Zoopark RU" tvg-logo="" group-title="Russia",Zoopark RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445937
+#EXTINF:-1 tvg-id="" tvg-name="Zvezda RU" tvg-logo="" group-title="Russia",Zvezda RU
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/445938
+#EXTINF:-1 tvg-id="" tvg-name="-= Lithuania =-" tvg-logo="" group-title="Lithuania",-= Lithuania =-
+http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/41452
