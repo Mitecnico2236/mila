@@ -3,18 +3,20 @@
 #EXTINF:-1 tvg-id="tntpacific.us" tvg-name="US TNT (West) " tvg-logo="" group-title="USA ",US TNT (West) 
 http://nocable.cc:8080/vince/vince/46688
 
-#EXTINF:-1 tvg-id="tnt.us" tvg-name="US TNT East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="USA ",US TNT East 
-http://nocable.cc:8080/vince/vince/10455
-
-#EXTINF:-1 tvg-id="" tvg-name="AZ | Phoenix | CBS KPHO" tvg-logo="" group-title="USA | NEWS | REGIONALS ",AZ | Phoenix | CBS KPHO
-http://nocable.cc:8080/vince/vince/120648
-
-
-#EXTINF:-1 tvg-id="" tvg-name="US CBS (KCAL) Los Angeles (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (KCAL) Los Angeles (F)
-http://nocable.cc:8080/vince/vince/120654
 
 #EXTINF:-1 tvg-id="" tvg-name="US CBS (KFMB) San Diego (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (KFMB) San Diego (F)
 http://nocable.cc:8080/vince/vince/121175
+
+#EXTINF:-1 tvg-id="" tvg-name="US abc3 (KESQ) Palm Springs " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US abc3 (KESQ) Palm Springs 
+http://nocable.cc:8080/vince/vince/121235
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US abc 7 (WABC) New York (A)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US abc 7 (WABC) New York (A)
+http://nocable.cc:8080/vince/vince/121139
+
+
+
+
 
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network HD US" tvg-logo="https://lh4.googleusercontent.com/-V_P5kDWxm20/AAAAAAAAAAI/AAAAAAAACFQ/pOgMC6p5ruY/s0-c-k-no-ns/photo.jpg" group-title="US Sports",NFL Network HD US
 http://clientsportals.com:2095/KSobPGGmIz/36Yy35mk1n/26457
