@@ -1,15 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tntpacific.us" tvg-name="US TNT (West) " tvg-logo="" group-title="USA ",US TNT (West) 
-http://nocable.cc:8080/vince/vince/46688
+#EXTINF:-1 tvg-id="tntpacific.us" tvg-name="CNR TV (TJ) " tvg-logo="" group-title="MEX ",CNR TV (West) 
+https://video-weaver.dfw56.hls.ttvnw.net/v1/playlist/CpUFz693wUb2F5_4xeHlgJ1dZNjL7Nx0QcIfT7F-G50aKCqFQfqilC9Vav8L8ZXidS2igCVc9pmhexN1CJzy0ZN2ISr2z9JUjvKO7T88c9_XiYUd-x8HohqdqaZToC-pO13hAI7LTVKPq6uXt2QO6Vpp8OaFLZECxGSJGUO2An2gk5tZftw27SH3jDQ4wpMAybslh1GvPxFezL7SG9X2Mqs6R67EQPf5zwSVVqi8UoKf2Cv_QFXWjoW9ajt9LMYKTKjxmi_wNVGBKcBZbco5aaOEy3bbVfezzTGPc_w-DyYHV7NsXRrAXSpxG_0P-Q-Mfr--f0bzIrb9L5CjwhzoGICZyKBECtYBYOXSAL8gKG58IjEmS_X3ECczDzaXIPQuyrbisPPlMg2KdeQBt_6vU2PTaMyGX_-xJ08y9CjXKyE5RxWAY2l0x6Dxd-3w8-xIE-B9nLaiedrrMcXOdPrJ9HDBkjrtsAYnatRGHIt2Bd4pY62UR8L29WuDbuOuR2ZX_YJ8QQmBpY0a-sqL4LaCeyoKtsfrsFGIg_TvgLVxTAW5FG8kQCERFwoEFqha1B3viidyAW4oE8Yj0mMnsD5NvAPezpkxVMt1t4cGtQ2_Ezh5tEEzwh8cFsOIjHcECu6tfT0bn_zNJzI5qhH0l3Ht7_uDf_4-Vj8fl5xPsZbCKIrUIB-gAPS_gmn3vBbWb0oTrg1E35x25DPQhQdRhRYiGDSrzLUyyGAlkCBBdhFL38y5THB-d6oz-Fv1siaLwyvLt8F8QSXN__skw_LSbWPP5ztQt_rPeatM-IKt0erVIK9pXEhd6FGNIdtzS90o6_jHGdNR4NK6SL7qmh6VWxpWocshVu01yZZzuH2TnpJKBDe3hSM6Knru_xoMdgc37Up2uwDhsot4IAEqCXVzLWVhc3QtMjDKBg.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PSN TV () Tijuana (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",PSN TV () Tijuana (F)
+https://live-ak.vimeocdn.com/exp=1684381630~acl=%2Fb2404962-4218-414d-b94c-be4d21173b17%2F%2A~hmac=8f81ae684e4de3ff732f183b5580d5aae5218b799fdeb045c7bb9b20a8425b6d/b2404962-4218-414d-b94c-be4d21173b17/chunklist_b2056000.m3u8?max_segments=10
 
-#EXTINF:-1 tvg-id="" tvg-name="US CBS (KFMB) San Diego (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (KFMB) San Diego (F)
-http://nocable.cc:8080/vince/vince/121175
-
-#EXTINF:-1 tvg-id="" tvg-name="US abc3 (KESQ) Palm Springs " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US abc3 (KESQ) Palm Springs 
-http://nocable.cc:8080/vince/vince/121235
-
+#EXTINF:-1 tvg-id="" tvg-name="Sintesis Tv () Tijusna " tvg-logo="" group-title="USA | NEWS | REGIONALS ",Sintesis Tv () Tijuana 
+https://video-weaver.dfw56.hls.ttvnw.net/v1/playlist/CqQFXgnhKcPegC_sSCyyOAnGZYkl6SIO40wOo9ApuU5dx8sHUVSB40J7LrYnhqxQjq2dRdzKl5CJeu1XItA7HvkmYsYszzTt4M9a7t0A9ZcxIt2rbhZhddtoC8BepsLf1StxmU70Viiqb2JReQdK1s10ld51rnuug_eWKo49PyH0y5V3IbJ9UGvGJ88Humg_jGiWOofziUUoQ-3XDO8bJRAx8NPzvS0RcamUaChJ2uXXYwNenaOYAYDg4h1WXG8ISPNt6YDETE2UfdHzXV_BPv41pShp7TmI1HmDf-uYkho176V2M09xXeeI1vjWH9rboL6bqG7-pef9b0GgfotGMWvNrRbzUVbGs9GPkZL-zdjzv53rtIfSViXRJpP8C-t5Vt3tD05DxdgrmWER9FC653Gq2CwFOmnKhVlO5lZKUoH8tdfRrGktb53GWneg-9w3SXROhfm3xkZGZgmnNmsHU0Ey-mWZJXZLQibgLsi_LZ7OPsMaiotyKRdyszdMpwIcssJ4G3_KXxshtQrlTXbUAwfl-YLjYAoa28w6biQgWdK2UbNl2T2Ier2LNeWhRpkTKwXGNyEBEI5QBqTG38YYcTlot_FOpYGmz0SCpBaeAvqRd1VjehCrbS4cRqg4_qlakbLCxmU6MB39n4dTTr5pawpwzsZ6KrxX2XAzoMw200OtY6ue0armp0zumpglm_CCdxO-_xbCI8kTYI3tUEGLcSV-_XNrT08O5fLC7YZD3BXUqkUs-EYYqEqbUhouNn5LClOxA8INXZSlqV0_LOjWvIiwUzMM49i4-KLchvNix8TBOvSyE5V2EdAKkyz4mpvjQwOiTTZmQePvOKMhZ_0xcg8FPKDA2ncQbzqxXTcu53azsKmkfEJLGgJMNwUY4VSqnIESr7jTcRoMwlAS-wr74VBNMUJFIAEqCXVzLWVhc3QtMjDKBg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="US abc 7 (WABC) New York (A)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US abc 7 (WABC) New York (A)
 http://nocable.cc:8080/vince/vince/121139
